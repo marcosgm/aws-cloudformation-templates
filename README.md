@@ -1,4 +1,6 @@
 # AWS CloudFormation Sample Templates
+
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/f01b2e99-8c61-472e-8dae-e04821e95202.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/aws-cloudformation-templates)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/3dea29da-aae7-4f1f-8eb5-4cc4d22315a6.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/aws-cloudformation-templates)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/66944d55-80ef-4a1d-b798-919053f1dacf.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/aws-cloudformation-templates)  
 Use sample AWS CloudFormation templates to learn how to declare specific AWS resources or solve a particular use case. We recommend that you use sample templates as a starting point for creating your own templates, not for launching production-level environments. Before launching a template, always review the resources that it will create and the permissions it requires.
 
 ## About the Repository
